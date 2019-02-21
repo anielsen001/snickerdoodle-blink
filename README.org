@@ -1,0 +1,4 @@
+#+TITLE: snickerdoodle-blink README
+
+Following closely http://www.ritravvenlab.com/cpet-563-blog/create-blink-ip and 
+http://www.craftdrones.com/blog/august-22nd-2017
